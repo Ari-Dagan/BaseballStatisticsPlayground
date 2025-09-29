@@ -1,0 +1,841 @@
+teamId,teamName,playerId,playerName,position
+133,Athletics,669620,Brady Basso,P
+133,Athletics,667670,Brent Rooker,RF
+133,Athletics,695391,Brett Harris,3B
+133,Athletics,666126,Carlos Cortes,LF
+133,Athletics,687515,Colby Thomas,RF
+133,Athletics,687231,Darell Hernaiz,3B
+133,Athletics,665660,Elvis Alvarado,P
+133,Athletics,663687,Hogan Harris,P
+133,Athletics,669372,J.T. Ginn,P
+133,Athletics,668709,JJ Bleday,CF
+133,Athletics,805779,Jacob Wilson,SS
+133,Athletics,605488,Jeffrey Springs,P
+133,Athletics,686993,Justin Sterner,P
+133,Athletics,671732,Lawrence Butler,RF
+133,Athletics,806960,Luis Morales,P
+133,Athletics,622663,Luis Severino,P
+133,Athletics,686930,Mason Barnett,P
+133,Athletics,691777,Max Muncy,3B
+133,Athletics,680474,Max Schuemann,3B
+133,Athletics,547184,Michael Kelly,P
+133,Athletics,687765,Mitch Spence,P
+133,Athletics,701762,Nick Kurtz,1B
+133,Athletics,674370,Osvaldo Bido,P
+133,Athletics,543518,Scott McGough,P
+133,Athletics,669127,Shea Langeliers,C
+133,Athletics,621053,Tyler Ferguson,P
+133,Athletics,691016,Tyler Soderstrom,LF
+133,Athletics,680862,Willie MacIver,C
+134,Pittsburgh Pirates,672744,Alexander Canario,LF
+134,Pittsburgh Pirates,457705,Andrew McCutchen,RF
+134,Pittsburgh Pirates,677952,Braxton Ashcraft,P
+134,Pittsburgh Pirates,668804,Bryan Reynolds,RF
+134,Pittsburgh Pirates,696149,Bubba Chandler,P
+134,Pittsburgh Pirates,687478,Cam Devanney,SS
+134,Pittsburgh Pirates,669387,Carmen Mlodzinski,P
+134,Pittsburgh Pirates,663767,Chase Shugart,P
+134,Pittsburgh Pirates,642701,Dennis Santana,P
+134,Pittsburgh Pirates,680779,Henry Davis,C
+134,Pittsburgh Pirates,682995,Hunter Barco,P
+134,Pittsburgh Pirates,676755,Isaac Mattson,P
+134,Pittsburgh Pirates,669261,Jack Suwinski,RF
+134,Pittsburgh Pirates,669707,Jared Triolo,SS
+134,Pittsburgh Pirates,663698,Joey Bart,C
+134,Pittsburgh Pirates,670912,Johan Oviedo,P
+134,Pittsburgh Pirates,664875,Justin Lawrence,P
+134,Pittsburgh Pirates,693312,Kyle Nicolas,P
+134,Pittsburgh Pirates,681347,Mike Burrows,P
+134,Pittsburgh Pirates,656605,Mitch Keller,P
+134,Pittsburgh Pirates,693304,Nick Gonzales,2B
+134,Pittsburgh Pirates,694377,Nick Yorke,2B
+134,Pittsburgh Pirates,665833,Oneil Cruz,CF
+134,Pittsburgh Pirates,694973,Paul Skenes,P
+134,Pittsburgh Pirates,804668,Rafael Flores,C
+134,Pittsburgh Pirates,687462,Spencer Horwitz,1B
+134,Pittsburgh Pirates,502054,Tommy Pham,LF
+134,Pittsburgh Pirates,670990,Yohan Ramírez,P
+135,San Diego Padres,670970,Adrian Morejon,P
+135,San Diego Padres,699134,Bradgley Rodriguez,P
+135,San Diego Padres,669369,Bryce Johnson,CF
+135,San Diego Padres,688158,David Morgan,P
+135,San Diego Padres,656302,Dylan Cease,P
+135,San Diego Padres,553869,Elias Díaz,C
+135,San Diego Padres,665487,Fernando Tatis Jr.,RF
+135,San Diego Padres,666023,Freddy Fermin,C
+135,San Diego Padres,657757,Gavin Sheets,LF
+135,San Diego Padres,676664,JP Sears,P
+135,San Diego Padres,701538,Jackson Merrill,CF
+135,San Diego Padres,630105,Jake Cronenworth,2B
+135,San Diego Padres,669093,Jeremiah Estrada,P
+135,San Diego Padres,578428,Jose Iglesias,2B
+135,San Diego Padres,650333,Luis Arraez,1B
+135,San Diego Padres,592518,Manny Machado,3B
+135,San Diego Padres,669200,Mason McCoy,2B
+135,San Diego Padres,695243,Mason Miller,P
+135,San Diego Padres,650633,Michael King,P
+135,San Diego Padres,601713,Nick Pivetta,P
+135,San Diego Padres,681190,Randy Vásquez,P
+135,San Diego Padres,663158,Robert Suarez,P
+135,San Diego Padres,656811,Ryan O'Hearn,1B
+135,San Diego Padres,593974,Wandy Peralta,P
+135,San Diego Padres,695238,Will Wagner,3B
+135,San Diego Padres,593428,Xander Bogaerts,SS
+135,San Diego Padres,506433,Yu Darvish,P
+135,San Diego Padres,673513,Yuki Matsui,P
+136,Seattle Mariners,662253,Andrés Muñoz,P
+136,Seattle Mariners,693433,Bryan Woo,P
+136,Seattle Mariners,682243,Bryce Miller,P
+136,Seattle Mariners,663728,Cal Raleigh,C
+136,Seattle Mariners,657571,Caleb Ferguson,P
+136,Seattle Mariners,672841,Carlos Vargas,P
+136,Seattle Mariners,702284,Cole Young,2B
+136,Seattle Mariners,686527,Dominic Canzone,RF
+136,Seattle Mariners,660825,Eduard Bazardo,P
+136,Seattle Mariners,676106,Emerson Hancock,P
+136,Seattle Mariners,553993,Eugenio Suárez,3B
+136,Seattle Mariners,642100,Gabe Speier,P
+136,Seattle Mariners,669923,George Kirby,P
+136,Seattle Mariners,695670,Harry Ford,C
+136,Seattle Mariners,641487,J.P. Crawford,SS
+136,Seattle Mariners,593871,Jorge Polanco,2B
+136,Seattle Mariners,647304,Josh Naylor,1B
+136,Seattle Mariners,677594,Julio Rodríguez,CF
+136,Seattle Mariners,660844,Leo Rivas,2B
+136,Seattle Mariners,669302,Logan Gilbert,P
+136,Seattle Mariners,622491,Luis Castillo,P
+136,Seattle Mariners,592426,Luke Jackson,P
+136,Seattle Mariners,670042,Luke Raley,RF
+136,Seattle Mariners,666374,Matt Brash,P
+136,Seattle Mariners,670156,Miles Mastrobuoni,3B
+136,Seattle Mariners,641598,Mitch Garver,C
+136,Seattle Mariners,668227,Randy Arozarena,LF
+136,Seattle Mariners,645302,Victor Robles,RF
+137,San Francisco Giants,668800,Andrew Knizner,C
+137,San Francisco Giants,805811,Bryce Eldridge,1B
+137,San Francisco Giants,693313,Carson Seymour,P
+137,San Francisco Giants,669477,Casey Schmitt,3B
+137,San Francisco Giants,683766,Christian Koss,2B
+137,San Francisco Giants,687551,Drew Gilbert,CF
+137,San Francisco Giants,687529,Grant McCray,CF
+137,San Francisco Giants,671218,Heliot Ramos,LF
+137,San Francisco Giants,664141,JT Brubaker,P
+137,San Francisco Giants,666464,Jerar Encarnacion,RF
+137,San Francisco Giants,666711,Joel Peguero,P
+137,San Francisco Giants,664192,Joey Lucchesi,P
+137,San Francisco Giants,676130,José Buttó,P
+137,San Francisco Giants,808982,Jung Hoo Lee,CF
+137,San Francisco Giants,434378,Justin Verlander,P
+137,San Francisco Giants,678906,Kai-Wei Teng,P
+137,San Francisco Giants,657277,Logan Webb,P
+137,San Francisco Giants,656305,Matt Chapman,3B
+137,San Francisco Giants,657424,Matt Gage,P
+137,San Francisco Giants,672275,Patrick Bailey,C
+137,San Francisco Giants,646240,Rafael Devers,DH
+137,San Francisco Giants,592662,Robbie Ray,P
+137,San Francisco Giants,676254,Ryan Walker,P
+137,San Francisco Giants,702352,Spencer Bivens,P
+137,San Francisco Giants,686790,Trevor McDonald,P
+137,San Francisco Giants,663941,Tristan Beck,P
+137,San Francisco Giants,642715,Willy Adames,SS
+137,San Francisco Giants,527038,Wilmer Flores,1B
+138,St. Louis Cardinals,676475,Alec Burleson,1B
+138,St. Louis Cardinals,669467,Andre Pallante,P
+138,St. Louis Cardinals,680977,Brendan Donovan,2B
+138,St. Louis Cardinals,688297,Chris Roycroft,P
+138,St. Louis Cardinals,700669,Gordon Graceffo,P
+138,St. Louis Cardinals,671056,Iván Herrera,C
+138,St. Louis Cardinals,699625,Jimmy Crooks,C
+138,St. Louis Cardinals,668941,JoJo Romero,P
+138,St. Louis Cardinals,667463,John King,P
+138,St. Louis Cardinals,691023,Jordan Walker,RF
+138,St. Louis Cardinals,660896,Jorge Alcala,P
+138,St. Louis Cardinals,665877,José Fermín,2B
+138,St. Louis Cardinals,681517,Kyle Leahy,P
+138,St. Louis Cardinals,663457,Lars Nootbaar,LF
+138,St. Louis Cardinals,694335,Matt Svanson,P
+138,St. Louis Cardinals,669461,Matthew Liberatore,P
+138,St. Louis Cardinals,700241,Michael McGreevy,P
+138,St. Louis Cardinals,571945,Miles Mikolas,P
+138,St. Louis Cardinals,701675,Nathan Church,LF
+138,St. Louis Cardinals,571448,Nolan Arenado,3B
+138,St. Louis Cardinals,669357,Nolan Gorman,2B
+138,St. Louis Cardinals,686780,Pedro Pagés,C
+138,St. Louis Cardinals,676617,Riley O'Brien,P
+138,St. Louis Cardinals,681676,Ryan Fernandez,P
+138,St. Louis Cardinals,543243,Sonny Gray,P
+138,St. Louis Cardinals,695336,Thomas Saggese,2B
+138,St. Louis Cardinals,687363,Victor Scott II,CF
+138,St. Louis Cardinals,650968,Yohel Pozo,C
+139,Tampa Bay Rays,605288,Adrian Houser,P
+139,Tampa Bay Rays,676044,Bob Seymour,1B
+139,Tampa Bay Rays,664040,Brandon Lowe,2B
+139,Tampa Bay Rays,641329,Bryan Baker,P
+139,Tampa Bay Rays,700246,Carson Williams,SS
+139,Tampa Bay Rays,802415,Chandler Simpson,CF
+139,Tampa Bay Rays,666624,Christopher Morel,LF
+139,Tampa Bay Rays,642121,Cole Sulser,P
+139,Tampa Bay Rays,656876,Drew Rasmussen,P
+139,Tampa Bay Rays,670955,Edwin Uceta,P
+139,Tampa Bay Rays,664076,Garrett Cleavinger,P
+139,Tampa Bay Rays,643377,Griffin Jax,P
+139,Tampa Bay Rays,676439,Hunter Feduccia,C
+139,Tampa Bay Rays,693855,Ian Seymour,P
+139,Tampa Bay Rays,663968,Jake Mangum,LF
+139,Tampa Bay Rays,669947,Jesse Scholtens,P
+139,Tampa Bay Rays,671212,Joe Boyle,P
+139,Tampa Bay Rays,666018,Jonathan Aranda,1B
+139,Tampa Bay Rays,666139,Josh Lowe,RF
+139,Tampa Bay Rays,691406,Junior Caminero,3B
+139,Tampa Bay Rays,687330,Kevin Kelly,P
+139,Tampa Bay Rays,663743,Nick Fortes,C
+139,Tampa Bay Rays,664126,Pete Fairbanks,P
+139,Tampa Bay Rays,680700,Richie Palacios,LF
+139,Tampa Bay Rays,686752,Ryan Pepiot,P
+139,Tampa Bay Rays,669358,Shane Baz,P
+139,Tampa Bay Rays,656484,Tristan Gray,3B
+139,Tampa Bay Rays,650490,Yandy Díaz,1B
+140,Texas Rangers,666969,Adolis García,RF
+140,Texas Rangers,696030,Alejandro Osuna,LF
+140,Texas Rangers,641856,Billy McKinney,LF
+140,Texas Rangers,683227,Cody Freeman,3B
+140,Texas Rangers,543056,Danny Coulombe,P
+140,Texas Rangers,456781,Donovan Solano,1B
+140,Texas Rangers,664238,Dylan Moore,2B
+140,Texas Rangers,677649,Ezequiel Duran,SS
+140,Texas Rangers,571948,Hoby Milner,P
+140,Texas Rangers,683004,Jack Leiter,P
+140,Texas Rangers,656641,Jacob Latz,P
+140,Texas Rangers,657097,Jacob Webb,P
+140,Texas Rangers,594798,Jacob deGrom,P
+140,Texas Rangers,669394,Jake Burger,1B
+140,Texas Rangers,592626,Joc Pederson,1B
+140,Texas Rangers,641680,Jonah Heim,C
+140,Texas Rangers,692030,Jose Corniell,P
+140,Texas Rangers,673962,Josh Jung,3B
+140,Texas Rangers,543309,Kyle Higashioka,C
+140,Texas Rangers,681168,Luis Curvelo,P
+140,Texas Rangers,518876,Merrill Kelly,P
+140,Texas Rangers,680737,Michael Helman,CF
+140,Texas Rangers,571578,Patrick Corbin,P
+140,Texas Rangers,664208,Phil Maton,P
+140,Texas Rangers,676395,Robert Garcia,P
+140,Texas Rangers,642133,Rowdy Tellez,1B
+140,Texas Rangers,542888,Shawn Armstrong,P
+140,Texas Rangers,641816,Tyler Mahle,P
+141,Toronto Blue Jays,680718,Addison Barger,3B
+141,Toronto Blue Jays,672386,Alejandro Kirk,C
+141,Toronto Blue Jays,665926,Andrés Giménez,2B
+141,Toronto Blue Jays,623993,Anthony Santander,RF
+141,Toronto Blue Jays,680755,Braydon Fisher,P
+141,Toronto Blue Jays,663893,Brendon Little,P
+141,Toronto Blue Jays,662139,Daulton Varsho,CF
+141,Toronto Blue Jays,676914,Davis Schneider,LF
+141,Toronto Blue Jays,641778,Eric Lauer,P
+141,Toronto Blue Jays,676391,Ernie Clement,3B
+141,Toronto Blue Jays,543807,George Springer,RF
+141,Toronto Blue Jays,643396,Isiah Kiner-Falefa,SS
+141,Toronto Blue Jays,656546,Jeff Hoffman,P
+141,Toronto Blue Jays,694388,Joey Loperfido,LF
+141,Toronto Blue Jays,677865,Justin Bruihl,P
+141,Toronto Blue Jays,592332,Kevin Gausman,P
+141,Toronto Blue Jays,686973,Louis Varland,P
+141,Toronto Blue Jays,689254,Mason Fluharty,P
+141,Toronto Blue Jays,453286,Max Scherzer,P
+141,Toronto Blue Jays,664702,Myles Straw,CF
+141,Toronto Blue Jays,664770,Nathan Lukes,RF
+141,Toronto Blue Jays,622554,Seranthony Domínguez,P
+141,Toronto Blue Jays,669456,Shane Bieber,P
+141,Toronto Blue Jays,667297,Tommy Nance,P
+141,Toronto Blue Jays,702056,Trey Yesavage,P
+141,Toronto Blue Jays,623168,Tyler Heineman,C
+141,Toronto Blue Jays,665489,Vladimir Guerrero Jr.,1B
+141,Toronto Blue Jays,684320,Yariel Rodríguez,P
+142,Minnesota Twins,664948,Anthony Misiewicz,P
+142,Minnesota Twins,668885,Austin Martin,CF
+142,Minnesota Twins,641927,Bailey Ober,P
+142,Minnesota Twins,686797,Brooks Lee,3B
+142,Minnesota Twins,621439,Byron Buxton,CF
+142,Minnesota Twins,676812,Carson McCusker,LF
+142,Minnesota Twins,543877,Christian Vázquez,C
+142,Minnesota Twins,689520,Cody Laweryson,P
+142,Minnesota Twins,663485,Cole Sands,P
+142,Minnesota Twins,680577,DaShawn Keirsey Jr.,CF
+142,Minnesota Twins,666397,Edouard Julien,2B
+142,Minnesota Twins,650893,Génesis Cabrera,P
+142,Minnesota Twins,681546,James Outman,CF
+142,Minnesota Twins,657746,Joe Ryan,P
+142,Minnesota Twins,665019,Kody Clemens,2B
+142,Minnesota Twins,681892,Kody Funderburk,P
+142,Minnesota Twins,543859,Michael Tonkin,P
+142,Minnesota Twins,690953,Mick Abel,P
+142,Minnesota Twins,681508,Mickey Gasper,2B
+142,Minnesota Twins,668904,Royce Lewis,3B
+142,Minnesota Twins,680837,Ryan Fitzgerald,3B
+142,Minnesota Twins,680777,Ryan Jeffers,C
+142,Minnesota Twins,680573,Simeon Woods Richardson,P
+142,Minnesota Twins,671737,Taj Bradley,P
+142,Minnesota Twins,641672,Thomas Hatch,P
+142,Minnesota Twins,701519,Travis Adams,P
+142,Minnesota Twins,663616,Trevor Larnach,RF
+142,Minnesota Twins,805673,Zebby Matthews,P
+143,Philadelphia Phillies,605400,Aaron Nola,P
+143,Philadelphia Phillies,664761,Alec Bohm,3B
+143,Philadelphia Phillies,669016,Brandon Marsh,CF
+143,Philadelphia Phillies,547180,Bryce Harper,1B
+143,Philadelphia Phillies,681082,Bryson Stott,2B
+143,Philadelphia Phillies,650911,Cristopher Sánchez,P
+143,Philadelphia Phillies,502085,David Robertson,P
+143,Philadelphia Phillies,624641,Edmundo Sosa,2B
+143,Philadelphia Phillies,596117,Garrett Stubbs,C
+143,Philadelphia Phillies,664056,Harrison Bader,LF
+143,Philadelphia Phillies,592663,J.T. Realmuto,C
+143,Philadelphia Phillies,666200,Jesús Luzardo,P
+143,Philadelphia Phillies,661395,Jhoan Duran,P
+143,Philadelphia Phillies,656941,Kyle Schwarber,LF
+143,Philadelphia Phillies,642152,Lou Trivino,P
+143,Philadelphia Phillies,621381,Matt Strahm,P
+143,Philadelphia Phillies,596146,Max Kepler,LF
+143,Philadelphia Phillies,592206,Nick Castellanos,RF
+143,Philadelphia Phillies,689147,Orion Kerkering,P
+143,Philadelphia Phillies,805249,Otto Kemp,1B
+143,Philadelphia Phillies,665561,Rafael Marchán,C
+143,Philadelphia Phillies,624133,Ranger Suárez,P
+143,Philadelphia Phillies,592836,Taijuan Walker,P
+143,Philadelphia Phillies,621383,Tanner Banks,P
+143,Philadelphia Phillies,641835,Tim Mayza,P
+143,Philadelphia Phillies,607208,Trea Turner,SS
+143,Philadelphia Phillies,621111,Walker Buehler,P
+143,Philadelphia Phillies,642215,Weston Wilson,LF
+144,Atlanta Braves,689172,Brett Wisely,2B
+144,Atlanta Braves,693821,Bryce Elder,P
+144,Atlanta Braves,450203,Charlie Morton,P
+144,Atlanta Braves,519242,Chris Sale,P
+144,Atlanta Braves,686948,Drake Baldwin,C
+144,Atlanta Braves,689266,Dylan Dodd,P
+144,Atlanta Braves,669276,Dylan Lee,P
+144,Atlanta Braves,642201,Eli White,RF
+144,Atlanta Braves,673490,Ha-Seong Kim,SS
+144,Atlanta Braves,802686,Hayden Harris,P
+144,Atlanta Braves,676702,Hunter Stratton,P
+144,Atlanta Braves,606303,Joel Payamps,P
+144,Atlanta Braves,666214,Joey Wentz,P
+144,Atlanta Braves,660761,José Suarez,P
+144,Atlanta Braves,595777,Jurickson Profar,LF
+144,Atlanta Braves,663897,Luke Williams,SS
+144,Atlanta Braves,542303,Marcell Ozuna,DH
+144,Atlanta Braves,621566,Matt Olson,1B
+144,Atlanta Braves,671739,Michael Harris II,CF
+144,Atlanta Braves,805373,Nacho Alvarez Jr.,SS
+144,Atlanta Braves,669397,Nick Allen,SS
+144,Atlanta Braves,572955,Pierce Johnson,P
+144,Atlanta Braves,628452,Raisel Iglesias,P
+144,Atlanta Braves,660670,Ronald Acuña Jr.,RF
+144,Atlanta Braves,506702,Sandy León,C
+144,Atlanta Braves,675911,Spencer Strider,P
+144,Atlanta Braves,641755,Tyler Kinley,P
+144,Atlanta Braves,660644,Vidal Bruján,3B
+145,Chicago White Sox,685126,Brandon Eisert,P
+145,Chicago White Sox,681460,Brooks Baldwin,LF
+145,Chicago White Sox,592155,Cam Booser,P
+145,Chicago White Sox,805367,Chase Meidroth,SS
+145,Chicago White Sox,695657,Colson Montgomery,SS
+145,Chicago White Sox,667452,Corey Julks,LF
+145,Chicago White Sox,678554,Curtis Mead,1B
+145,Chicago White Sox,663436,Davis Martin,P
+145,Chicago White Sox,656537,Derek Hill,CF
+145,Chicago White Sox,666150,Dominic Fletcher,RF
+145,Chicago White Sox,700337,Edgar Quero,C
+145,Chicago White Sox,686642,Fraser Ellard,P
+145,Chicago White Sox,691799,Grant Taylor,P
+145,Chicago White Sox,686563,Jonathan Cannon,P
+145,Chicago White Sox,673929,Jordan Leasure,P
+145,Chicago White Sox,686676,Korey Lee,C
+145,Chicago White Sox,691019,Kyle Teel,C
+145,Chicago White Sox,672820,Lenyn Sosa,2B
+145,Chicago White Sox,572191,Michael A. Taylor,RF
+145,Chicago White Sox,678246,Miguel Vargas,3B
+145,Chicago White Sox,678024,Mike Vasil,P
+145,Chicago White Sox,680732,Sean Burke,P
+145,Chicago White Sox,681343,Shane Smith,P
+145,Chicago White Sox,621051,Steven Wilson,P
+145,Chicago White Sox,641302,Tyler Alexander,P
+145,Chicago White Sox,656457,Tyler Gilbert,P
+145,Chicago White Sox,683770,Will Robertson,LF
+145,Chicago White Sox,672782,Yoendrys Gómez,P
+146,Miami Marlins,682663,Agustín Ramírez,C
+146,Miami Marlins,640459,Brian Navarreto,C
+146,Miami Marlins,806188,Cade Gibson,P
+146,Miami Marlins,676534,Calvin Faucher,P
+146,Miami Marlins,681393,Connor Norby,3B
+146,Miami Marlins,665795,Edward Cabrera,P
+146,Miami Marlins,676572,Eric Wagaman,1B
+146,Miami Marlins,691587,Eury Pérez,P
+146,Miami Marlins,666277,George Soriano,P
+146,Miami Marlins,688363,Graham Pauley,3B
+146,Miami Marlins,665052,Griffin Conine,LF
+146,Miami Marlins,681715,Heriberto Hernández,LF
+146,Miami Marlins,805300,Jakob Marsee,CF
+146,Miami Marlins,676083,Janson Junk,P
+146,Miami Marlins,691594,Javier Sanoja,2B
+146,Miami Marlins,686894,Joey Wiemer,LF
+146,Miami Marlins,681006,Josh Simpson,P
+146,Miami Marlins,669199,Lake Bachar,P
+146,Miami Marlins,689414,Liam Hicks,C
+146,Miami Marlins,656848,Michael Petersen,P
+146,Miami Marlins,672640,Otto Lopez,2B
+146,Miami Marlins,678692,Ronny Henriquez,P
+146,Miami Marlins,677960,Ryan Weathers,P
+146,Miami Marlins,645261,Sandy Alcantara,P
+146,Miami Marlins,687859,Troy Johnston,OF
+146,Miami Marlins,663969,Tyler Phillips,P
+146,Miami Marlins,678368,Valente Bellozo,P
+146,Miami Marlins,669364,Xavier Edwards,SS
+147,New York Yankees,592450,Aaron Judge,RF
+147,New York Yankees,642708,Amed Rosario,3B
+147,New York Yankees,683011,Anthony Volpe,SS
+147,New York Yankees,596103,Austin Slater,LF
+147,New York Yankees,669224,Austin Wells,C
+147,New York Yankees,700250,Ben Rice,1B
+147,New York Yankees,693645,Cam Schlittler,P
+147,New York Yankees,666808,Camilo Doval,P
+147,New York Yankees,607074,Carlos Rodón,P
+147,New York Yankees,641355,Cody Bellinger,LF
+147,New York Yankees,670280,David Bednar,P
+147,New York Yankees,642207,Devin Williams,P
+147,New York Yankees,518585,Fernando Cruz,P
+147,New York Yankees,519317,Giancarlo Stanton,DH
+147,New York Yankees,691176,Jasson Domínguez,LF
+147,New York Yankees,665862,Jazz Chisholm Jr.,2B
+147,New York Yankees,676609,José Caballero,SS
+147,New York Yankees,661563,Luis Gil,P
+147,New York Yankees,596133,Luke Weaver,P
+147,New York Yankees,643410,Mark Leiter Jr.,P
+147,New York Yankees,608331,Max Fried,P
+147,New York Yankees,621112,Paul Blackburn,P
+147,New York Yankees,502671,Paul Goldschmidt,1B
+147,New York Yankees,641857,Ryan McMahon,3B
+147,New York Yankees,642232,Ryan Yarbrough,P
+147,New York Yankees,657612,Tim Hill,P
+147,New York Yankees,663757,Trent Grisham,CF
+147,New York Yankees,701542,Will Warren,P
+158,Milwaukee Brewers,676879,Aaron Ashby,P
+158,Milwaukee Brewers,682842,Abner Uribe,P
+158,Milwaukee Brewers,683734,Andrew Vaughn,1B
+158,Milwaukee Brewers,655316,Andruw Monasterio,SS
+158,Milwaukee Brewers,663368,Blake Perkins,CF
+158,Milwaukee Brewers,668930,Brice Turang,2B
+158,Milwaukee Brewers,702332,Caleb Durbin,3B
+158,Milwaukee Brewers,694477,Chad Patrick,P
+158,Milwaukee Brewers,592885,Christian Yelich,LF
+158,Milwaukee Brewers,669084,DL Hall,P
+158,Milwaukee Brewers,643376,Danny Jansen,C
+158,Milwaukee Brewers,642547,Freddy Peralta,P
+158,Milwaukee Brewers,681982,Grant Anderson,P
+158,Milwaukee Brewers,686555,Isaac Collins,LF
+158,Milwaukee Brewers,694192,Jackson Chourio,CF
+158,Milwaukee Brewers,694819,Jacob Misiorowski,P
+158,Milwaukee Brewers,641343,Jake Bauers,LF
+158,Milwaukee Brewers,657649,Jared Koenig,P
+158,Milwaukee Brewers,687401,Joey Ortiz,SS
+158,Milwaukee Brewers,683232,Nick Mears,P
+158,Milwaukee Brewers,682990,Quinn Priester,P
+158,Milwaukee Brewers,656555,Rhys Hoskins,1B
+158,Milwaukee Brewers,642239,Rob Zastryzny,P
+158,Milwaukee Brewers,688107,Robert Gasser,P
+158,Milwaukee Brewers,686217,Sal Frelick,RF
+158,Milwaukee Brewers,668964,Tobias Myers,P
+158,Milwaukee Brewers,656730,Trevor Megill,P
+158,Milwaukee Brewers,661388,William Contreras,C
+108,Los Angeles Angels,656271,Brock Burke,P
+108,Los Angeles Angels,669326,Bryce Teodosio,CF
+108,Los Angeles Angels,702674,Caden Dana,P
+108,Los Angeles Angels,666198,Carter Kieboom,3B
+108,Los Angeles Angels,681217,Chase Silseth,P
+108,Los Angeles Angels,621035,Chris Taylor,CF
+108,Los Angeles Angels,695681,Christian Moore,2B
+108,Los Angeles Angels,641401,Connor Brogdon,P
+108,Los Angeles Angels,694203,Denzer Guzman,SS
+108,Los Angeles Angels,666176,Jo Adell,CF
+108,Los Angeles Angels,820862,José Fermin,P
+108,Los Angeles Angels,570632,José Ureña,P
+108,Los Angeles Angels,445276,Kenley Jansen,P
+108,Los Angeles Angels,543294,Kyle Hendricks,P
+108,Los Angeles Angels,681351,Logan O'Hoppe,C
+108,Los Angeles Angels,650859,Luis Rengifo,3B
+108,Los Angeles Angels,545361,Mike Trout,RF
+108,Los Angeles Angels,815083,Mitch Farris,P
+108,Los Angeles Angels,694384,Nolan Schanuel,1B
+108,Los Angeles Angels,672724,Oswald Peraza,3B
+108,Los Angeles Angels,666171,Ryan Zeferjahn,P
+108,Los Angeles Angels,691951,Sam Aldegheri,P
+108,Los Angeles Angels,696147,Sam Bachman,P
+108,Los Angeles Angels,671111,Sammy Peralta,P
+108,Los Angeles Angels,665861,Sebastián  Rivero,C
+108,Los Angeles Angels,621493,Taylor Ward,LF
+108,Los Angeles Angels,660162,Yoán Moncada,3B
+108,Los Angeles Angels,579328,Yusei Kikuchi,P
+109,Arizona Diamondbacks,680728,Adrian Del Castillo,C
+109,Arizona Diamondbacks,677950,Alek Thomas,CF
+109,Arizona Diamondbacks,694851,Andrew Hoffmann,P
+109,Arizona Diamondbacks,685314,Andrew Saalfrank,P
+109,Arizona Diamondbacks,677942,Blaze Alexander,SS
+109,Arizona Diamondbacks,694297,Brandon Pfaadt,P
+109,Arizona Diamondbacks,805299,Brandyn Garcia,P
+109,Arizona Diamondbacks,686826,Bryce Jarvis,P
+109,Arizona Diamondbacks,663731,Connor Kaiser,SS
+109,Arizona Diamondbacks,682998,Corbin Carroll,RF
+109,Arizona Diamondbacks,593958,Eduardo Rodriguez,P
+109,Arizona Diamondbacks,672515,Gabriel Moreno,C
+109,Arizona Diamondbacks,672695,Geraldo Perdomo,SS
+109,Arizona Diamondbacks,545121,Ildemaro Vargas,2B
+109,Arizona Diamondbacks,664983,Jake McCarthy,CF
+109,Arizona Diamondbacks,656222,Jalen Beeks,P
+109,Arizona Diamondbacks,543510,James McCann,C
+109,Arizona Diamondbacks,595928,John Curtiss,P
+109,Arizona Diamondbacks,691783,Jordan Lawlar,SS
+109,Arizona Diamondbacks,678489,Jorge Barrosa,LF
+109,Arizona Diamondbacks,666661,Juan Morillo,P
+109,Arizona Diamondbacks,606466,Ketel Marte,2B
+109,Arizona Diamondbacks,691769,Philip Abner,P
+109,Arizona Diamondbacks,657044,Ryan Thompson,P
+109,Arizona Diamondbacks,669194,Ryne Nelson,P
+109,Arizona Diamondbacks,688497,Taylor Rashi,P
+109,Arizona Diamondbacks,694374,Tim Tawa,2B
+109,Arizona Diamondbacks,668678,Zac Gallen,P
+110,Baltimore Orioles,668939,Adley Rutschman,C
+110,Baltimore Orioles,656577,Alex Jackson,C
+110,Baltimore Orioles,685068,Carson Ragsdale,P
+110,Baltimore Orioles,691723,Coby Mayo,1B
+110,Baltimore Orioles,681882,Colin Selby,P
+110,Baltimore Orioles,681297,Colton Cowser,LF
+110,Baltimore Orioles,665152,Dean Kremer,P
+110,Baltimore Orioles,687637,Dylan Beavers,RF
+110,Baltimore Orioles,666185,Dylan Carlson,LF
+110,Baltimore Orioles,664991,Grant Wolfram,P
+110,Baltimore Orioles,683002,Gunnar Henderson,SS
+110,Baltimore Orioles,702616,Jackson Holliday,2B
+110,Baltimore Orioles,669236,Jeremiah Jackson,2B
+110,Baltimore Orioles,676059,Jordan Westburg,3B
+110,Baltimore Orioles,622761,Jorge Mateo,SS
+110,Baltimore Orioles,620454,José Castillo,P
+110,Baltimore Orioles,669704,Kade Strowd,P
+110,Baltimore Orioles,669211,Keegan Akin,P
+110,Baltimore Orioles,680694,Kyle Bradish,P
+110,Baltimore Orioles,670329,Rico Garcia,P
+110,Baltimore Orioles,663624,Ryan Mountcastle,1B
+110,Baltimore Orioles,694212,Samuel Basallo,C
+110,Baltimore Orioles,608372,Tomoyuki Sugano,P
+110,Baltimore Orioles,669432,Trevor Rogers,P
+110,Baltimore Orioles,641933,Tyler O'Neill,RF
+110,Baltimore Orioles,669330,Tyler Wells,P
+110,Baltimore Orioles,682274,Yaramil Hiraldo,P
+110,Baltimore Orioles,666974,Yennier Cano,P
+111,Boston Red Sox,608324,Alex Bregman,3B
+111,Boston Red Sox,547973,Aroldis Chapman,P
+111,Boston Red Sox,678394,Brayan Bello,P
+111,Boston Red Sox,665966,Carlos Narváez,C
+111,Boston Red Sox,678882,Ceddanne Rafaela,CF
+111,Boston Red Sox,813349,Connelly Early,P
+111,Boston Red Sox,657136,Connor Wong,C
+111,Boston Red Sox,666152,David Hamilton,2B
+111,Boston Red Sox,676979,Garrett Crochet,P
+111,Boston Red Sox,676477,Garrett Whitlock,P
+111,Boston Red Sox,669711,Greg Weissert,P
+111,Boston Red Sox,680776,Jarren Duran,LF
+111,Boston Red Sox,592254,José De León,P
+111,Boston Red Sox,686580,Justin Slaten,P
+111,Boston Red Sox,458677,Justin Wilson,P
+111,Boston Red Sox,690986,Kyle Harrison,P
+111,Boston Red Sox,608337,Lucas Giolito,P
+111,Boston Red Sox,807799,Masataka Yoshida,LF
+111,Boston Red Sox,681987,Nate Eaton,3B
+111,Boston Red Sox,663993,Nathaniel Lowe,1B
+111,Boston Red Sox,686765,Nick Sogard,1B
+111,Boston Red Sox,801139,Payton Tolle,P
+111,Boston Red Sox,608701,Rob Refsnyder,RF
+111,Boston Red Sox,663853,Romy Gonzalez,1B
+111,Boston Red Sox,571927,Steven Matz,P
+111,Boston Red Sox,596115,Trevor Story,SS
+111,Boston Red Sox,677800,Wilyer Abreu,RF
+111,Boston Red Sox,677161,Zack Kelly,P
+112,Chicago Cubs,650644,Aaron Civale,P
+112,Chicago Cubs,552640,Andrew Kittredge,P
+112,Chicago Cubs,641745,Brad Keller,P
+112,Chicago Cubs,573204,Caleb Thielbar,P
+112,Chicago Cubs,608348,Carson Kelly,C
+112,Chicago Cubs,607067,Colin Rea,P
+112,Chicago Cubs,694037,Daniel Palencia,P
+112,Chicago Cubs,621020,Dansby Swanson,SS
+112,Chicago Cubs,519141,Drew Pomeranz,P
+112,Chicago Cubs,664023,Ian Happ,LF
+112,Chicago Cubs,592791,Jameson Taillon,P
+112,Chicago Cubs,665871,Javier Assad,P
+112,Chicago Cubs,696136,Jordan Wicks,P
+112,Chicago Cubs,457759,Justin Turner,1B
+112,Chicago Cubs,682634,Kevin Alcántara,RF
+112,Chicago Cubs,663656,Kyle Tucker,RF
+112,Chicago Cubs,807713,Matt Shaw,3B
+112,Chicago Cubs,571510,Matthew Boyd,P
+112,Chicago Cubs,683737,Michael Busch,1B
+112,Chicago Cubs,647336,Michael Soroka,P
+112,Chicago Cubs,694208,Moisés Ballesteros,C
+112,Chicago Cubs,663538,Nico Hoerner,2B
+112,Chicago Cubs,691718,Pete Crow-Armstrong,CF
+112,Chicago Cubs,624512,Reese McGuire,C
+112,Chicago Cubs,673548,Seiya Suzuki,RF
+112,Chicago Cubs,684007,Shota Imanaga,P
+112,Chicago Cubs,573124,Taylor Rogers,P
+112,Chicago Cubs,650489,Willi Castro,LF
+113,Cincinnati Reds,671096,Andrew Abbott,P
+113,Cincinnati Reds,669720,Austin Hays,LF
+113,Cincinnati Reds,663903,Brady Singer,P
+113,Cincinnati Reds,608718,Brent Suter,P
+113,Cincinnati Reds,695505,Chase Burns,P
+113,Cincinnati Reds,683175,Connor Phillips,P
+113,Cincinnati Reds,682829,Elly De La Cruz,SS
+113,Cincinnati Reds,641941,Emilio Pagán,P
+113,Cincinnati Reds,666158,Gavin Lux,LF
+113,Cincinnati Reds,668933,Graham Ashcraft,P
+113,Cincinnati Reds,668881,Hunter Greene,P
+113,Cincinnati Reds,624431,Jose Trevino,C
+113,Cincinnati Reds,663647,Ke'Bryan Hayes,3B
+113,Cincinnati Reds,680574,Matt McLain,2B
+113,Cincinnati Reds,609280,Miguel Andujar,LF
+113,Cincinnati Reds,666157,Nick Lodolo,P
+113,Cincinnati Reds,607259,Nick Martinez,P
+113,Cincinnati Reds,682622,Noelvi Marte,3B
+113,Cincinnati Reds,701398,Sal Stewart,3B
+113,Cincinnati Reds,669289,Santiago Espinal,3B
+113,Cincinnati Reds,605130,Scott Barlow,P
+113,Cincinnati Reds,668715,Spencer Steer,1B
+113,Cincinnati Reds,670770,TJ Friedl,CF
+113,Cincinnati Reds,663574,Tony Santillan,P
+113,Cincinnati Reds,663886,Tyler Stephenson,C
+113,Cincinnati Reds,666181,Will Benson,LF
+113,Cincinnati Reds,687209,Zach Maxwell,P
+113,Cincinnati Reds,641793,Zack Littell,P
+114,Cleveland Guardians,682657,Angel Martínez,CF
+114,Cleveland Guardians,595978,Austin Hedges,C
+114,Cleveland Guardians,666310,Bo Naylor,C
+114,Cleveland Guardians,677587,Brayan Rocchio,SS
+114,Cleveland Guardians,692216,C.J. Kayfus,1B
+114,Cleveland Guardians,671922,Cade Smith,P
+114,Cleveland Guardians,682177,Daniel Schneemann,2B
+114,Cleveland Guardians,681870,Erik Sabrowski,P
+114,Cleveland Guardians,672356,Gabriel Arias,SS
+114,Cleveland Guardians,668909,Gavin Williams,P
+114,Cleveland Guardians,671655,George Valera,RF
+114,Cleveland Guardians,683769,Hunter Gaddis,P
+114,Cleveland Guardians,596001,Jakob Junis,P
+114,Cleveland Guardians,678877,Jhonkensy Noel,RF
+114,Cleveland Guardians,676282,Joey Cantillo,P
+114,Cleveland Guardians,671286,Johnathan Rodríguez,RF
+114,Cleveland Guardians,608070,José Ramírez,3B
+114,Cleveland Guardians,663465,Kolby Allard,P
+114,Cleveland Guardians,700932,Kyle Manzardo,1B
+114,Cleveland Guardians,671106,Logan Allen,P
+114,Cleveland Guardians,670036,Matt Festa,P
+114,Cleveland Guardians,800048,Parker Messick,P
+114,Cleveland Guardians,690984,Petey Halpin,CF
+114,Cleveland Guardians,677944,Slade Cecconi,P
+114,Cleveland Guardians,680757,Steven Kwan,LF
+114,Cleveland Guardians,676440,Tanner Bibee,P
+114,Cleveland Guardians,682120,Tim Herrin,P
+114,Cleveland Guardians,687849,Zak Kent,P
+115,Colorado Rockies,683409,Angel Chivilli,P
+115,Colorado Rockies,683627,Anthony Molina,P
+115,Colorado Rockies,622608,Antonio Senzatela,P
+115,Colorado Rockies,688760,Blaine Crim,1B
+115,Colorado Rockies,687134,Bradley Blalock,P
+115,Colorado Rockies,690924,Braxton Fulford,C
+115,Colorado Rockies,686668,Brenton Doyle,CF
+115,Colorado Rockies,678662,Ezequiel Tovar,SS
+115,Colorado Rockies,608566,Germán Márquez,P
+115,Colorado Rockies,696100,Hunter Goodman,C
+115,Colorado Rockies,677955,Jaden Hill,P
+115,Colorado Rockies,623474,Jimmy Herget,P
+115,Colorado Rockies,687597,Jordan Beck,LF
+115,Colorado Rockies,675848,Juan Mejia,P
+115,Colorado Rockies,571657,Kyle Farmer,2B
+115,Colorado Rockies,607536,Kyle Freeland,P
+115,Colorado Rockies,691720,Kyle Karros,3B
+115,Colorado Rockies,678821,Luis Peralta,P
+115,Colorado Rockies,685326,McCade Brown,P
+115,Colorado Rockies,666160,Mickey Moniak,RF
+115,Colorado Rockies,606115,Orlando Arcia,SS
+115,Colorado Rockies,690022,Ryan Ritter,SS
+115,Colorado Rockies,685299,Tanner Gordon,P
+115,Colorado Rockies,671289,Tyler Freeman,RF
+115,Colorado Rockies,680767,Victor Vodnik,P
+115,Colorado Rockies,682653,Warming Bernabel,3B
+115,Colorado Rockies,692585,Yanquiel Fernández,RF
+115,Colorado Rockies,688642,Zach Agnos,P
+116,Detroit Tigers,628451,Andy Ibáñez,3B
+116,Detroit Tigers,676428,Brant Hurter,P
+116,Detroit Tigers,663554,Casey Mize,P
+116,Detroit Tigers,663978,Chris Paddack,P
+116,Detroit Tigers,693307,Dillon Dingler,C
+116,Detroit Tigers,650402,Gleyber Torres,2B
+116,Detroit Tigers,656427,Jack Flaherty,P
+116,Detroit Tigers,663330,Jahmai Jones,RF
+116,Detroit Tigers,668670,Jake Rogers,C
+116,Detroit Tigers,595879,Javier Báez,CF
+116,Detroit Tigers,669234,Justyn-Henry Malloy,RF
+116,Detroit Tigers,672456,Keider Montero,P
+116,Detroit Tigers,681481,Kerry Carpenter,RF
+116,Detroit Tigers,640448,Kyle Finnegan,P
+116,Detroit Tigers,678009,Parker Meadows,CF
+116,Detroit Tigers,623149,Paul Sewald,P
+116,Detroit Tigers,606160,Rafael Montero,P
+116,Detroit Tigers,682985,Riley Greene,LF
+116,Detroit Tigers,679529,Spencer Torkelson,1B
+116,Detroit Tigers,663432,Tanner Rainey,P
+116,Detroit Tigers,669373,Tarik Skubal,P
+116,Detroit Tigers,592454,Tommy Kahnle,P
+116,Detroit Tigers,700242,Trey Sweeney,SS
+116,Detroit Tigers,675512,Troy Melton,P
+116,Detroit Tigers,663947,Tyler Holton,P
+116,Detroit Tigers,672761,Wenceel Pérez,RF
+116,Detroit Tigers,676684,Will Vest,P
+116,Detroit Tigers,656716,Zach McKinstry,3B
+117,Houston Astros,805123,AJ Blubaugh,P
+117,Houston Astros,694728,Brice Matthews,SS
+117,Houston Astros,650556,Bryan Abreu,P
+117,Houston Astros,687911,Bryan King,P
+117,Houston Astros,701358,Cam Smith,RF
+117,Houston Astros,621043,Carlos Correa,SS
+117,Houston Astros,572233,Christian Walker,1B
+117,Houston Astros,676467,Colton Gordon,P
+117,Houston Astros,518886,Craig Kimbrel,P
+117,Houston Astros,664299,Cristian Javier,P
+117,Houston Astros,660853,Enyel De Los Santos,P
+117,Houston Astros,664285,Framber Valdez,P
+117,Houston Astros,686613,Hunter Brown,P
+117,Houston Astros,670623,Isaac Paredes,3B
+117,Houston Astros,641585,J.P. France,P
+117,Houston Astros,689200,Jacob Melton,LF
+117,Houston Astros,669920,Jason Alexander,P
+117,Houston Astros,681151,Jayden Murray,P
+117,Houston Astros,660821,Jesús Sánchez,RF
+117,Houston Astros,514888,Jose Altuve,LF
+117,Houston Astros,621121,Lance McCullers Jr.,P
+117,Houston Astros,643289,Mauricio Dubón,2B
+117,Houston Astros,602104,Ramón Urías,3B
+117,Houston Astros,595345,Steven Okert,P
+117,Houston Astros,666211,Taylor Trammell,LF
+117,Houston Astros,605170,Victor Caratini,C
+117,Houston Astros,673237,Yainer Diaz,C
+117,Houston Astros,805904,Zach Cole,CF
+118,Kansas City Royals,624428,Adam Frazier,2B
+118,Kansas City Royals,672582,Angel Zerpa,P
+118,Kansas City Royals,677951,Bobby Witt Jr.,SS
+118,Kansas City Royals,608032,Carlos Estévez,P
+118,Kansas City Royals,695600,Carter Jensen,C
+118,Kansas City Royals,666142,Cole Ragans,P
+118,Kansas City Royals,663738,Daniel Lynch IV,P
+118,Kansas City Royals,695506,Jac Caglianone,RF
+118,Kansas City Royals,670231,John Rave,RF
+118,Kansas City Royals,670167,John Schreiber,P
+118,Kansas City Royals,680742,Jonathan Bowlan,P
+118,Kansas City Royals,663697,Jonathan India,2B
+118,Kansas City Royals,679883,Luinder Avila,P
+118,Kansas City Royals,571912,Luke Maile,C
+118,Kansas City Royals,672580,Maikel Garcia,3B
+118,Kansas City Royals,547179,Michael Lorenzen,P
+118,Kansas City Royals,686681,Michael Massey,2B
+118,Kansas City Royals,608379,Michael Wacha,P
+118,Kansas City Royals,573262,Mike Yastrzemski,RF
+118,Kansas City Royals,702070,Noah Cameron,P
+118,Kansas City Royals,545341,Randal Grichuk,RF
+118,Kansas City Royals,521692,Salvador Perez,C
+118,Kansas City Royals,669674,Sam Long,P
+118,Kansas City Royals,663568,Stephen Kolek,P
+118,Kansas City Royals,674444,Steven Cruz,P
+118,Kansas City Royals,664199,Taylor Clarke,P
+118,Kansas City Royals,686475,Tyler Tolbert,2B
+118,Kansas City Royals,686469,Vinnie Pasquantino,1B
+119,Los Angeles Dodgers,669743,Alex Call,RF
+119,Los Angeles Dodgers,681911,Alex Vesia,P
+119,Los Angeles Dodgers,681624,Andy Pages,CF
+119,Los Angeles Dodgers,607455,Anthony Banda,P
+119,Los Angeles Dodgers,666163,Ben Rortvedt,C
+119,Los Angeles Dodgers,605483,Blake Snell,P
+119,Los Angeles Dodgers,595014,Blake Treinen,P
+119,Los Angeles Dodgers,477132,Clayton Kershaw,P
+119,Los Angeles Dodgers,687221,Dalton Rushing,C
+119,Los Angeles Dodgers,683618,Edgardo Henriquez,P
+119,Los Angeles Dodgers,686218,Emmet Sheehan,P
+119,Los Angeles Dodgers,571771,Enrique Hernández,1B
+119,Los Angeles Dodgers,518692,Freddie Freeman,1B
+119,Los Angeles Dodgers,808975,Hyeseong Kim,2B
+119,Los Angeles Dodgers,676263,Jack Dreyer,P
+119,Los Angeles Dodgers,680736,Justin Wrobleski,P
+119,Los Angeles Dodgers,689017,Landon Knack,P
+119,Los Angeles Dodgers,571970,Max Muncy,3B
+119,Los Angeles Dodgers,624424,Michael Conforto,LF
+119,Los Angeles Dodgers,500743,Miguel Rojas,2B
+119,Los Angeles Dodgers,605141,Mookie Betts,SS
+119,Los Angeles Dodgers,808963,Roki Sasaki,P
+119,Los Angeles Dodgers,660271,Shohei Ohtani,TWP
+119,Los Angeles Dodgers,656945,Tanner Scott,P
+119,Los Angeles Dodgers,606192,Teoscar Hernández,RF
+119,Los Angeles Dodgers,669242,Tommy Edman,2B
+119,Los Angeles Dodgers,607192,Tyler Glasnow,P
+119,Los Angeles Dodgers,808967,Yoshinobu Yamamoto,P
+120,Washington Nationals,665953,Andrés Chaparro,1B
+120,Washington Nationals,674841,Andrew Alvarez,P
+120,Washington Nationals,695418,Brad Lord,P
+120,Washington Nationals,691781,Brady House,3B
+120,Washington Nationals,682928,CJ Abrams,SS
+120,Washington Nationals,676917,Cade Cavalli,P
+120,Washington Nationals,690925,Clayton Beeter,P
+120,Washington Nationals,695734,Daylen Lile,RF
+120,Washington Nationals,686611,Dylan Crews,RF
+120,Washington Nationals,671131,Jackson Rutledge,P
+120,Washington Nationals,696285,Jacob Young,CF
+120,Washington Nationals,663623,Jake Irvin,P
+120,Washington Nationals,695578,James Wood,LF
+120,Washington Nationals,595751,Jorge Alfaro,C
+120,Washington Nationals,678606,Jose A. Ferrer,P
+120,Washington Nationals,605137,Josh Bell,1B
+120,Washington Nationals,642759,Julian Fernández,P
+120,Washington Nationals,663455,Konnor Pilkington,P
+120,Washington Nationals,671277,Luis García Jr.,2B
+120,Washington Nationals,680730,Mitchell Parker,P
+120,Washington Nationals,683083,Nasim Nuñez,SS
+120,Washington Nationals,687377,Orlando Ribalta,P
+120,Washington Nationals,676571,PJ Poulin,P
+120,Washington Nationals,657557,Paul DeJong,3B
+120,Washington Nationals,656180,Riley Adams,C
+120,Washington Nationals,690987,Robert Hassell III,CF
+120,Washington Nationals,666659,Sauryn Lao,P
+120,Washington Nationals,829272,Shinnosuke Ogasawara,P
+121,New York Mets,607043,Brandon Nimmo,LF
+121,New York Mets,687075,Brandon Sproat,P
+121,New York Mets,548384,Brooks Raley,P
+121,New York Mets,656775,Cedric Mullins,CF
+121,New York Mets,605280,Clay Holmes,P
+121,New York Mets,656849,David Peterson,P
+121,New York Mets,697811,Dylan Ross,P
+121,New York Mets,621242,Edwin Díaz,P
+121,New York Mets,682626,Francisco Alvarez,C
+121,New York Mets,596019,Francisco Lindor,SS
+121,New York Mets,642397,Gregory Soto,P
+121,New York Mets,623211,Huascar Brazobán,P
+121,New York Mets,676724,Jared Young,LF
+121,New York Mets,643446,Jeff McNeil,2B
+121,New York Mets,804636,Jonah Tong,P
+121,New York Mets,665742,Juan Soto,RF
+121,New York Mets,620443,Luis Torrens,C
+121,New York Mets,682668,Luisangel Acuña,2B
+121,New York Mets,668901,Mark Vientos,3B
+121,New York Mets,690997,Nolan McLean,P
+121,New York Mets,624413,Pete Alonso,1B
+121,New York Mets,677595,Ronny Mauricio,3B
+121,New York Mets,664854,Ryan Helsley,P
+121,New York Mets,592773,Ryne Stanek,P
+121,New York Mets,640455,Sean Manaea,P
+121,New York Mets,516782,Starling Marte,LF
+121,New York Mets,643511,Tyler Rogers,P
+121,New York Mets,621438,Tyrone Taylor,CF
